@@ -22,4 +22,11 @@ Here are some ideas to get you started:
 
 ## About Me:
 - 🌱 I’m currently learning Web Development.
+- 🧠 Improving logic through DSA.
 - ⚡ Fun fact: My headphones are on more than off.
+
+ ### 🛠 Tech Stack
+- C, C++
+- JavaScript, React
+- Node.js, Express
+- MongoDB
