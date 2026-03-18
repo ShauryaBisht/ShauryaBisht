@@ -7,8 +7,8 @@ I am currently working and honing my skills in MERN stack and improving logic th
 
 ## Badges
 <p align="center">
+   <img src="./Initiator_Card.png" width="180"/>
   <img src="./Collaborator_Card.png" width="180"/>
-  <img src="./Initiator_Card.png" width="180"/>
 </p>
 
 # 💻 Tech Stack:
