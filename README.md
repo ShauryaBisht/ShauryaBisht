@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am currently working and honing my skills in MERN stack and improving logic through DSA. Also exploring ML.<br>Fun fact: My headphones are on more than off.
 
 
@@ -12,10 +12,5 @@ I am currently working and honing my skills in MERN stack and improving logic th
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-[![](https://visitcount.itsvg.in/api?id=ShauryaBisht&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
